@@ -2,7 +2,6 @@
 
 Submitted by: **Smyan Jaipuriyar**
 
-Time spent: **2** hours spent in total
 
 ## Required Features
 
